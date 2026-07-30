@@ -1,0 +1,4 @@
+Contact: mailto:security@tafuya9csy.github.io
+Expires: 2027-12-31T23:59:59Z
+Preferred-Languages: zh-CN, en
+Canonical: https://tafuya9csy.github.io/.well-known/security.txt
