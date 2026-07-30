@@ -14,6 +14,17 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","name":"械维工质","alternateName":"Gongzhi Industrial Instruments Bureau","url":"https://tafuya9csy.github.io/","description":"工业机械研究与检定档案，发布机构公告与研究报告。"}
 </script>
+<!-- ===== 安全策略 ===== -->
+<!-- 内容安全策略：只允许同源资源，阻止一切外部脚本/iframe/注入 -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none';">
+<!-- 禁止 MIME 类型嗅探 -->
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<!-- 禁止被嵌入 iframe（防点击劫持） -->
+<meta http-equiv="X-Frame-Options" content="DENY">
+<!-- Referrer 策略：仅在同源时发送完整路径 -->
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<!-- 禁止搜索引擎索引可疑参数页面 -->
+<meta name="robots" content="index, follow, nositelinkssearchbox">
 <style>
   :root{
     --ink:#15110d; --paper:#f4f1ea; --paper2:#ece7db; --paper3:#e3ddcd;
