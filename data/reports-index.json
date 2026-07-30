@@ -1,5 +1,30 @@
 [
-  { "id": "003", "title": "重型液压机承载疲劳的应力分布", "date": "2026-07-22", "category": "机械强度", "file": "reports/003.md" },
-  { "id": "002", "title": "旧式齿轮箱润滑衰减的实测对照", "date": "2026-07-10", "category": "传动系统", "file": "reports/002.md" },
-  { "id": "001", "title": "铸铁基座共振频率的模态实测", "date": "2026-06-28", "category": "结构振动", "file": "reports/001.md" }
+  {
+    "id": "004",
+    "title": "[APK测试] 临时报告-004",
+    "date": "2026-07-30",
+    "category": "测试",
+    "file": "reports/004.md"
+  },
+  {
+    "id": "003",
+    "title": "重型液压机承载疲劳的应力分布",
+    "date": "2026-07-22",
+    "category": "机械强度",
+    "file": "reports/003.md"
+  },
+  {
+    "id": "002",
+    "title": "旧式齿轮箱润滑衰减的实测对照",
+    "date": "2026-07-10",
+    "category": "传动系统",
+    "file": "reports/002.md"
+  },
+  {
+    "id": "001",
+    "title": "铸铁基座共振频率的模态实测",
+    "date": "2026-06-28",
+    "category": "结构振动",
+    "file": "reports/001.md"
+  }
 ]
